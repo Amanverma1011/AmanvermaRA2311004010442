@@ -8,11 +8,11 @@ Reg. No. : RA2311004010442
 Team Members Details :-
 
 Member 1 : Ananta Singh
-Reg. no : RA2411004020612
+Reg. no : RA2411004010612
 Email ID :as5530@srmist.edu.in
 
 Member 2 : Vibha Joshi
-Reg. no : RA2411004020608
+Reg. no : RA2411004010608
 Email ID : vj5813@srmist.edu.in
 
 Member 3 : Nishat Armin
