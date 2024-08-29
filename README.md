@@ -23,8 +23,7 @@ Member 4 : Saksham Patel
 Reg. no : RA2311004010481
 Email ID : sp2799@srmist.edu.in
 
-Tracks -----
+Tracks ----- GenAI
 
-Problem Statement ------
 
 
